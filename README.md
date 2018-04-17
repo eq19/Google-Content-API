@@ -24,7 +24,7 @@ Manfaat yang bisa diperoleh adalah sbb:
 ## Struktur
 - Proses ke-1: Proses akses akun.
 - Proses ke-2: Proses akses data. 
-- Proses ke-3: Proses sunting data.
+- Proses ke-3: Proses kelola data.
 - Proses ke-4: Proses simpan data.
 
 ## Repositori
