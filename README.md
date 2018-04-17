@@ -22,11 +22,10 @@ Manfaat yang bisa diperoleh adalah sbb:
 - Meraih data terkini untuk [_Update Setelan AdWords Secara Otomatis_](https://developers.google.com/adwords/api/docs/guides/start) guna peroleh sales return yang paling optimal.
 
 ## Struktur
-Struktur dari prosesnya dijalankan dengan asas terbalik sbb:
-- Proses ke-1: Mulai dari akses ke daftar produk, menyaring data sampai sunting untuk tampilkan produk.
-- Proses ke-2: Mulai dari akses ke saran produk, memilah barang sampai input menjadi database produk.
-- Proses ke-3: Menyaring data dari proses ke-1 dan -2, analisa penjualan sampai perbaikan setelan iklan.
-- Proses ke-4: Mengatur setelan, penjadwalan, lalu-lintas data, dan monitoring hasil dari semua proses.
+- Proses ke-1: Proses akses akun.
+- Proses ke-2: Proses akses data. 
+- Proses ke-3: Proses sunting data.
+- Proses ke-4: Proses simpan data.
 
 ## Repositori
 Penempatan Repositori (Repo) untuk setiap proses diatur sbb:
